@@ -1,5 +1,5 @@
 
-# A small experimental project celebrating the start of the 2026 Formula 1 season and the Australian Grand Prix podium finishers.
+# A small experimental project celebrating the start of the 2026 Formula 1 season
 This demo showcases a Canvas2D morphing animation that transitions between the 2 drivers.
 
 The photos were generated using Luma AI and are only used here for experimental and visual demonstration purposes.
