@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# A small experimental project celebrating the start of the 2026 Formula 1 season and the Australian Grand Prix podium finishers.
+This demo showcases a Canvas2D morphing animation that transitions between the 2 drivers.
 
-This contains everything you need to run your app locally.
+The photos were generated using Luma AI and are only used here for experimental and visual demonstration purposes.
 
-View your app in AI Studio: https://ai.studio/apps/c1470e6b-dbb3-4e3d-95ee-73509e32751d
+⸻
 
-## Run Locally
+Morphing Effect (Canvas2D)
 
-**Prerequisites:**  Node.js
+The morphing animation in this project is inspired by the work of Chakib Mazouni.
+His original concept and implementation served as the foundation for exploring this portrait morphing effect.
 
+Original project:
+https://github.com/J0SUKE/morphing-2d-demo
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Code License: MIT License
+https://github.com/J0SUKE/morphing-2d-demo/blob/main/LICENSE
+
+Copyright © Chakib Mazouni
+https://github.com/codrops
