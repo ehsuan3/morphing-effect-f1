@@ -6,13 +6,10 @@ The photos were generated using Luma AI and are only used here for experimental 
 
 ⸻
 
-Morphing Effect (Canvas2D)
+## Morphing Effect with Canvas2D
 
 The morphing animation in this project is inspired by the work of Chakib Mazouni.
 His original concept and implementation served as the foundation for exploring this portrait morphing effect.
-
-Original project:
-https://github.com/J0SUKE/morphing-2d-demo
 
 Code License: MIT License
 https://github.com/J0SUKE/morphing-2d-demo/blob/main/LICENSE
