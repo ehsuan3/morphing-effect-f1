@@ -1,0 +1,5 @@
+{
+  "name": "Morphing 2D Demo",
+  "description": "A React implementation of the morphing animation from J0SUKE/morphing-2d-demo, using image sequences and canvas.",
+  "requestFramePermissions": []
+}
